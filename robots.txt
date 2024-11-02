@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ihaquuwu.github.io/BTs/sitemap_index.txt
+Sitemap: https://ihaquuwu.github.io/MDg/sitemap_index.txt
+Sitemap: https://ihaquuwu.github.io/mJL/sitemap_index.txt
+Sitemap: https://ihaquuwu.github.io/uen/sitemap_index.txt
